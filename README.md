@@ -1,2 +1,2 @@
-# racingmasters
-racing masters
+# Human Evolution Rush
+a game to play :D
